@@ -25,12 +25,13 @@
 
 
 // 3
-    function power ( a , b) {
+    function prompt ( a , b) {
         return a ** b;
         }
-      let a = prompt("2");
-      let b = prompt("6");
-        console.log(power(a, b));
+      let a = ("2");
+      let b = ("6");
+      let result =  a ** b;
+        console.log(prompt(a, b));
 
 
 
